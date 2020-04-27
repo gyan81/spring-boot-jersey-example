@@ -1,0 +1,6 @@
+com\javacodegeeks\examples\SpringBootJaxrsJerseyApplication.class
+com\javacodegeeks\examples\bootstrap\DataLoader.class
+com\javacodegeeks\examples\service\StudentService.class
+com\javacodegeeks\examples\model\Student.class
+com\javacodegeeks\examples\repository\StudentRepository.class
+com\javacodegeeks\examples\config\JerseyConfig.class
